@@ -1,7 +1,7 @@
 title: Chibe: Where coaches do their best work
 author:
   name: Everyday Life Marketing
-  email: 
+  #email: 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -67,7 +67,7 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
+  platform: x,              user_url: "https://x.com/chibe_co_"
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 
