@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+[Apply to become a coach]: https://life37.github.io/chibe/apply/
