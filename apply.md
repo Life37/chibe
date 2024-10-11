@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apply
+title: Apply to be a coach
 permalink: /apply/
 ---
 
